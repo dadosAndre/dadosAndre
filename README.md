@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 🤝💻
 
-<!--
-**dadosAndre/dadosAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+André é de perfil analítico e autodidata, estou sempre disposto e entusiasmado em aprender.
+Apaixonado por tecnologia, participo de diversos eventos e cursos ligados a área.
 
-Here are some ideas to get you started:
+- Ciência de Dados
+- SQL
+- Python
+- Excel
+- Power Bi
+- Linguagem R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
